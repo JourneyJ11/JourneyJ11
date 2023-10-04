@@ -1,7 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Josh! </h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/)
+
+
+<h2> Certifications</h2>
+
+- [eJPT]()
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**JourneyJ11/JourneyJ11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
