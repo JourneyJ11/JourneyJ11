@@ -3,17 +3,21 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/JourneyJ11/ActiveDirectoryLab)
+- [Azure Sentinel SIEM](https://github.com/JourneyJ11/)
+- [Vulnerability Management with Nessus Essentials](https://github.com/JourneyJ11/)
+- [File Integrity Monitor](https://github.com/JourneyJ11/)
 
 
 <h2> Certifications</h2>
 
 - [eJPT]()
+- [CompTIA Security+ In Progress]()
 
 <h2> 🤳 Connect with me:</h2>
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
