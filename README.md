@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/JourneyJ11/ActiveDirectoryLab)
 - [Azure Sentinel SIEM](https://github.com/JourneyJ11/AzureSentinelLab)
 - [Vulnerability Management with Nessus Essentials](https://github.com/JourneyJ11/NessusLab)
-- [File Integrity Monitor](https://github.com/JourneyJ11/)
+- [File Integrity Monitor](https://github.com/JourneyJ11/FileIntegrityMonitorLab)
 
 
 <h2> Certifications</h2>
