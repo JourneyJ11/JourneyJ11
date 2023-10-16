@@ -10,7 +10,7 @@
 
 <h2> Certifications</h2>
 
-- [eJPT (Junior Penetration Tester. In progress.)]()
+- [eJPT (Junior Penetration Tester) In Progress)]()
 - [CompTIA Security+ In Progress]()
 
 <h2> 🤳 Connect with me:</h2>
