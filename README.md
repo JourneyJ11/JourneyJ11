@@ -10,7 +10,7 @@
 
 <h2> Certifications</h2>
 
-- [eJPT (Junior Penetration Tester) In Progress]()
+- [RHCSA (Red Hat Certified System Administrator) In Progress]()
 - [CompTIA Security+]()
 
 <h2> 🤳 Connect with me:</h2>
