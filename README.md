@@ -11,7 +11,7 @@
 <h2> Certifications</h2>
 
 - [eJPT (Junior Penetration Tester) In Progress]()
-- [CompTIA Security+ In Progress]()
+- [CompTIA Security+]()
 
 <h2> 🤳 Connect with me:</h2>
 
